@@ -4,7 +4,7 @@ An online shopping website is a digital platform that allows users to browse and
 
 KEY FEATURES:
 
-PRODUCT CATALOGUE: A comprehensive list of products or services with detailed descriptions, prices, and images.
+Product Catalogue: A comprehensive list of products or services with detailed descriptions, prices, and images.
 
 BENEFITS:
 
