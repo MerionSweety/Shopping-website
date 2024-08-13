@@ -1,0 +1,85 @@
+.logo a {
+    color: white;
+    font-size: 35px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+  
+  .ion-icon {
+    width: 20px;
+    height: 30px;
+    background-color: white;
+    color: black;
+  }
+  .ion-icon:hover {
+    cursor: pointer;
+  }
+  .product-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.product-image {
+  width: 40%;
+}
+
+.product-image img {
+  width: 100%;
+  height: auto;
+}
+
+.product-details {
+  width: 60%;
+  padding: 20px;
+}
+
+.product-details h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.product-details p {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: rgb(199, 31, 180);
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b3719f;
+}
+
+.reviews {
+  margin-top: 20px;
+}
+
+.reviews p {
+  margin-bottom: 10px;
+}
+.rating {
+    display: flex;
+  }
+  
+  .star {
+    cursor: pointer;
+    font-size: 24px;
+    margin-right: 10px;
+    color: #ccc;
+  }
+  
+  .star:hover {
+    color: #ff0;
+  }
+  
+  .star.active {
+    color: #ff0;
+  }
+  
+
